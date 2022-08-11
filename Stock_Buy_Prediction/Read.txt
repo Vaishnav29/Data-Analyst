@@ -1,0 +1,1 @@
+This Project was done to get all the top performing stock prices and load them to a data base and then perform calculations of indicators and check for a buying decision.
